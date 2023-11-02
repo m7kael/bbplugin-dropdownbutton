@@ -48,6 +48,7 @@
   }
   .dropdown-button {
     display: block;
+    line-height: 0px;
   }
 
   .dropdown-memnu-container {
